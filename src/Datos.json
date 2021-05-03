@@ -1,0 +1,461 @@
+[
+    {
+        "idBoca": 1,
+        "coordenada": {
+            "latitud": "-31.253193",
+            "longitud": "-61.489122"
+        },
+        "ciudad": "RAFAELA",
+        "direccion": "AV.SANTA FE 252",
+        "nombre": "BA - RAFAELA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 2,
+        "coordenada": {
+            "latitud": "-31.253193",
+            "longitud": "-61.489122"
+        },
+        "ciudad": "RAFAELA",
+        "direccion": "AV.SANTA FE 252",
+        "nombre": "BA - RAFAELA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 3,
+        "coordenada": {
+            "latitud": "-31.253861",
+            "longitud": "-61.489575"
+        },
+        "ciudad": "RAFAELA",
+        "direccion": "BELGRANO 237",
+        "nombre": "CONSUMO S.R.L. - RAFAELA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 5,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "RAFAELA",
+        "direccion": "AV.YRIGOYEN 229",
+        "nombre": "FARMACIA OPERTO",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 6,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "RAFAELA",
+        "direccion": "AV.A.DEL VALLE 1171",
+        "nombre": "FARMACIA ABOAL",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 7,
+        "coordenada": {
+            "latitud": "-30.943821",
+            "longitud": "-61.555316"
+        },
+        "ciudad": "SUNCHALES",
+        "direccion": "AV.H.YRIGOYEN 1012",
+        "nombre": "BA - SUNCHALES",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 8,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "RAFAELA",
+        "direccion": "AV.E.SALVA 524",
+        "nombre": "LA QUINIELA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 9,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "CERES",
+        "direccion": "",
+        "nombre": "BA - CERES",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 10,
+        "coordenada": {
+            "latitud": "-29.233133",
+            "longitud": "-61.77086"
+        },
+        "ciudad": "TOSTADO",
+        "direccion": "12 OCTUBRE 1450",
+        "nombre": "BA - TOSTADO",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 11,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "EL TREBOL",
+        "direccion": "AV.AMERICA 788",
+        "nombre": "BA - EL TREBOL",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 12,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "SAN JORGE",
+        "direccion": "E.PERON 1508",
+        "nombre": "BA - SAN JORGE",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 14,
+        "coordenada": {
+            "latitud": "-30.977941",
+            "longitud": "-64.095899"
+        },
+        "ciudad": "JESUS MARIA",
+        "direccion": "TUCUMAN ESQ. COLON",
+        "nombre": "BA - JESUS MARIA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 15,
+        "coordenada": {
+            "latitud": "-31.657622",
+            "longitud": "-64.432182"
+        },
+        "ciudad": "ALTA GRACIA",
+        "direccion": "AV.BELGRANO 153",
+        "nombre": "BA - ALTA GRACIA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 16,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "CARLOS PAZ",
+        "direccion": "",
+        "nombre": "BA - CARLOS PAZ",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 17,
+        "coordenada": {
+            "latitud": "-31.240725",
+            "longitud": "-64.464895"
+        },
+        "ciudad": "COSQUIN",
+        "direccion": "GERONICO 756",
+        "nombre": "BA - COSQUIN",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 18,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "LA FALDA",
+        "direccion": "",
+        "nombre": "BA - LA FALDA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 19,
+        "coordenada": {
+            "latitud": "-31.428471",
+            "longitud": "-62.092372"
+        },
+        "ciudad": "SAN FRANCISCO",
+        "direccion": "AV. 25 DE MAYO 2355",
+        "nombre": "BA - SAN FRANCISCO",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 20,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "ARROYITO",
+        "direccion": "F.PAGANI 925",
+        "nombre": "BA - ARROYITO",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 21,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "MORTEROS",
+        "direccion": "BV.25 DE MAYO 340",
+        "nombre": "BA - MORTEROS",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 22,
+        "coordenada": {
+            "latitud": "-32.123626",
+            "longitud": "-62.346863"
+        },
+        "ciudad": "MARCOS JUAREZ",
+        "direccion": "SAN MARTIN 1095",
+        "nombre": "BA - MARCOS JUAREZ",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 23,
+        "coordenada": {
+            "latitud": "-33.1867346",
+            "longitud": "-64.345455"
+        },
+        "ciudad": "BELL VILLE",
+        "direccion": "SAN MARTIN 43",
+        "nombre": "BA - BELL VILLE",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 24,
+        "coordenada": {
+            "latitud": "-33.187666",
+            "longitud": "-64.342343"
+        },
+        "ciudad": "LAS VARILLAS",
+        "direccion": "RIVADAVIA 1",
+        "nombre": "BA - LAS VARILLAS",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 25,
+        "coordenada": {
+            "latitud": "-33.125346",
+            "longitud": "-64.343453"
+        },
+        "ciudad": "VILLA MARIA",
+        "direccion": "",
+        "nombre": "BA - VILLA MARIA",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 26,
+        "coordenada": {
+            "latitud": "-33.123626",
+            "longitud": "-64.346863"
+        },
+        "ciudad": "RIO CUARTO",
+        "direccion": "",
+        "nombre": "BA - RIO IV",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 27,
+        "coordenada": {
+            "latitud": "-32.171969",
+            "longitud": "-64.112395"
+        },
+        "ciudad": "RIO TERCERO",
+        "direccion": "",
+        "nombre": "BA - RIO TERCERO",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 28,
+        "coordenada": {
+            "latitud": null,
+            "longitud": null
+        },
+        "ciudad": "ONCATIVO",
+        "direccion": "BV.25 DE MAYO 900",
+        "nombre": "BA - ONCATIVO",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    },
+    {
+        "idBoca": 29,
+        "coordenada": {
+            "latitud": "-31.413759",
+            "longitud": "-64.183336"
+        },
+        "ciudad": "CORDOBA",
+        "direccion": "SAN MARTIN 199",
+        "nombre": "BA - CORDOBA SAN MARTIN",
+        "estado": {
+            "tipoErrores": [],
+            "isVerificado": false
+        },
+        "error": 0,
+        "verificaciones": [],
+        "errores": null
+    }
+]
